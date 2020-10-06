@@ -28,6 +28,7 @@ describe('Functional_cases', () => {
     cy.visit(`/123-pizza-roedermark/5/cat/cat/26`)
 
 
+      })
     })
   })
 })
